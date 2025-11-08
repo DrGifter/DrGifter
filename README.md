@@ -13,19 +13,16 @@
   
   <table>
   <tr>
-    <th><a href="https://www.tiktok.com/@dr.gifter306" style="font-weight: bold; text-decoration: none;">Dr.Gifter</a></th>
     <td align="center"><img width="300" src="https://github.com/user-attachments/assets/16d6fc1c-825c-4264-b0fe-b3c7b3ae9f03" /></td>
-    <td align="center">Hỗ trợ hoặc cung cấp các loại website đơn giản giúp bạn bày tỏ tình cảm cho bạn gái, người yêu hoặc cho một người đặc biệt.</td>
+    <td align="center"><b><a href="https://www.tiktok.com/@dr.gifter306">Dr.Gifter</a></b>: Hỗ trợ hoặc cung cấp các loại website đơn giản giúp bạn bày tỏ tình cảm cho bạn gái, người yêu hoặc cho một người đặc biệt.</td>
   </tr>
   <tr>
-    <th><a href="https://www.tiktok.com/@drwitch13" style="font-weight: bold; text-decoration: none;">Dr.Witch</a></th>
     <td align="center"><img width="300" src="https://github.com/user-attachments/assets/251ad6c7-d497-4361-88ba-622239fd9161" /></td>
-    <td align="center">Hỗ trợ hoặc cung cấp các dự án liên quan đến các ứng dụng thiết bị nhúng IOT</td>
+    <td align="center"><b><a href="https://www.tiktok.com/@drwitch13">Dr.Witch</a></b>: Hỗ trợ hoặc cung cấp các dự án liên quan đến các ứng dụng thiết bị nhúng IOT</td>
   </tr>
   <tr>
-    <th><a href="https://www.tiktok.com/@aihoclaptrinh" style="font-weight: bold; text-decoration: none;">Aihoclaptrinh</a></th>
     <td align="center"><img width="300" src="https://github.com/user-attachments/assets/0a9094c3-3d3f-4837-8abc-f952aef676fc" /></td>
-    <td align="center">Hỗ trợ hoặc cung cấp các loại dự án bài tập giữa kỳ, cuối kỳ, bài tập lớn và đồ án có liên quan đến Python hoặc AI.</td>
+    <td align="center"><a href="https://www.tiktok.com/@aihoclaptrinh">Aihoclaptrinh</a>: Hỗ trợ hoặc cung cấp các loại dự án bài tập giữa kỳ, cuối kỳ, bài tập lớn và đồ án có liên quan đến Python hoặc AI.</td>
   </tr>
 </table>
 </div>
