@@ -1,6 +1,6 @@
 <div align="center">
   <img width="200" height="300" alt="Dr.Gifter Logo" src="https://github.com/user-attachments/assets/889120f1-785c-42b2-9d91-f4092dbb2380" style="border-radius: 50%; box-shadow: 0 8px 32px rgba(0,0,0,0.1);" />
-  <h2> Dr.Gifter <br> ✨ Just A Gift For You ✨ <br> Hỗ trợ làm bài tập lớn</h2>
+  <h2> Dr.Gifter <br> ✨ Just A Gift For You ✨</h2>
 </div>
 
 <div>
