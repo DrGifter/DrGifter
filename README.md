@@ -7,9 +7,27 @@
   <img width="1000" height="300" alt="image" src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif" />
 </div>
 
-## 📫 Let's Connect [My Tiktok](https://www.tiktok.com/@dr.gifter306) 
+## 📫 Let's Connect Our Tiktok 
 <div align="center">
   <img src="https://i.pinimg.com/originals/80/78/a2/8078a2862bcb5e9041ffbc12f79f2bae.gif" alt="TikTok" width="90%" />
+  
+  <table>
+  <tr>
+    <th><a href="https://www.tiktok.com/@dr.gifter306" style="font-weight: bold; text-decoration: none;">Dr.Gifter</a></th>
+    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/16d6fc1c-825c-4264-b0fe-b3c7b3ae9f03" /></td>
+    <td align="center">Hỗ trợ hoặc cung cấp các loại website đơn giản giúp bạn bày tỏ tình cảm cho bạn gái, người yêu hoặc cho một người đặc biệt.</td>
+  </tr>
+  <tr>
+    <th><a href="https://www.tiktok.com/@drwitch13" style="font-weight: bold; text-decoration: none;">Dr.Witch</a></th>
+    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/251ad6c7-d497-4361-88ba-622239fd9161" /></td>
+    <td align="center">Hỗ trợ hoặc cung cấp các dự án liên quan đến các ứng dụng thiết bị nhúng IOT</td>
+  </tr>
+  <tr>
+    <th><a href="https://www.tiktok.com/@aihoclaptrinh" style="font-weight: bold; text-decoration: none;">Aihoclaptrinh</a></th>
+    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/0a9094c3-3d3f-4837-8abc-f952aef676fc" /></td>
+    <td align="center">Hỗ trợ hoặc cung cấp các loại dự án bài tập giữa kỳ, cuối kỳ, bài tập lớn và đồ án có liên quan đến Python hoặc AI.</td>
+  </tr>
+</table>
 </div>
 
 ## 🛠️ Tool & Language
@@ -30,29 +48,6 @@
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrGifter&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=DrGifter&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" style="max-width: 150%;">
-
-<div align="center">
-  <h2>⭐ VIỆT NAM ⭐</h2>
-</div>
-
-<table>
-  <tr>
-    <th>Cờ Đỏ Sao Vàng<br>Nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam</th>
-    <th>Cờ Đảng Cộng Sản Việt Nam</th>
-    <th>Cờ Mặt Trận Dân Tộc Giải Phóng<br>Miền Nam Việt Nam</th>
-  </tr>
-  <tr>
-    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/39291ef8-a367-4432-a5e5-3677ff8861c1" /></td>
-    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/dda88022-5986-4a7a-9a95-aeeb4eb8aebd" /></td>
-    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/383769ab-8ebc-4ce1-9d99-59dde9334012" /></td>
-  </tr>
-</table>
-
-> Source Code: [Xem tại đây](https://github.com/DrGifter/Gift_VietNam.git)
-
-> Xem Demo: [Video Demo](https://www.tiktok.com/@dr.gifter306/video/7538409662778019079)
-
-> Viết tiếp câu chuyện hoà bình: [Video](https://www.tiktok.com/@dr.gifter306/video/7543707329859046664) 
 
 ## 📝Free Projects
 
