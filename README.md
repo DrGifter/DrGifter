@@ -200,12 +200,12 @@ _Có thể kết hợp nhiều mẫu lại, tạo Web, tạo QR theo yêu cầu_
 <div align="center">
   <table>
   <tr>
-    <th>Woman Day</th>
+    <th>Giáng sinh</th>
     <th>Love Tree</th>
     <th>Fill Heart</th>
   </tr>
   <tr>
-    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/d8d3b559-b889-4cdf-bdee-0caf4212f830" /></td>
+    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/fe21c018-d8cf-41de-b086-487573f7e076" /></td>
     <td align="center"><img width="300" src="https://github.com/user-attachments/assets/4f7d42b9-6b85-4191-a7df-49077dd0ea7e" /></td>
     <td align="center"><img width="300" src="https://github.com/user-attachments/assets/75d96b67-09d3-42f6-9cea-6578fbc24a24" /></td>
   </tr>
@@ -218,11 +218,11 @@ _Có thể kết hợp nhiều mẫu lại, tạo Web, tạo QR theo yêu cầu_
     <td colspan = "3">
       <p>Gửi những lời yêu thương trân trọng nhất đến những người phụ nữ tuyệt vời nhất trong cuộc đời chúng ta — Mẹ, vợ yêu, bạn gái. Hãy dành tặng họ những dòng tin nhắn chan chứa cảm xúc, hay cùng nhau gìn giữ những kỷ niệm ngọt ngào và đáng nhớ</p>
       <ul>
-        <li>Woman Day: <a href="https://www.tiktok.com/@dr.gifter306/video/7561444979328011538">Video demo</a></li>
+        <li>Giáng sinh: <a href="https://www.tiktok.com/@dr.gifter306/video/7578189343622253831">Video demo</a></li>
         <li>Love Tree: <a href="https://www.tiktok.com/@dr.gifter306/video/7559648254070181138">Video demo</a></li>
         <li>Fill Heart: <a href="https://www.tiktok.com/@dr.gifter306/video/7559934989505252626">Video demo</a></li>
       </ul>
-      <i><strong>Mục đích: </strong>Gửi lời nhắn yêu thương, lời chúc vào những ngày đặc biệt như 20/10, 8/3,...Thông qua Link dẫn hoặc QR Code</i> <br>
+      <i><strong>Mục đích: </strong>Gửi lời nhắn yêu thương, lời chúc vào những ngày đặc biệt như 20/10 ❤️, 8/3🌹, Noel🎁...Thông qua Link dẫn hoặc QR Code</i> <br>
     </td>
   </tr>
 </table>
