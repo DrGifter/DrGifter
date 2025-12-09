@@ -10,21 +10,6 @@
 ## 📫 Let's Connect Our Tiktok 
 <div align="center">
   <img src="https://i.pinimg.com/originals/80/78/a2/8078a2862bcb5e9041ffbc12f79f2bae.gif" alt="TikTok" width="90%" />
-  
-  <table>
-  <tr>
-    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/16d6fc1c-825c-4264-b0fe-b3c7b3ae9f03" /></td>
-    <td align="center"><b><a href="https://www.tiktok.com/@dr.gifter306">Dr.Gifter</a></b>: Hỗ trợ hoặc cung cấp các loại website đơn giản giúp bạn bày tỏ tình cảm cho bạn gái, người yêu hoặc cho một người đặc biệt.</td>
-  </tr>
-  <tr>
-    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/251ad6c7-d497-4361-88ba-622239fd9161" /></td>
-    <td align="center"><b><a href="https://www.tiktok.com/@drwitch13">Dr.Witch</a></b>: Hỗ trợ hoặc cung cấp các dự án liên quan đến các ứng dụng thiết bị nhúng IOT</td>
-  </tr>
-  <tr>
-    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/0a9094c3-3d3f-4837-8abc-f952aef676fc" /></td>
-    <td align="center"><a href="https://www.tiktok.com/@aihoclaptrinh">Aihoclaptrinh</a>: Hỗ trợ hoặc cung cấp các loại dự án bài tập giữa kỳ, cuối kỳ, bài tập lớn và đồ án có liên quan đến Python hoặc AI.</td>
-  </tr>
-</table>
 </div>
 
 ## 🛠️ Tool & Language
@@ -154,6 +139,12 @@ _Có thể kết hợp nhiều mẫu lại, tạo Web, tạo QR theo yêu cầu_
     <td>Thả lồng đèn trung thu</td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/ea2e1ee5-b8e3-43ba-895b-d69934f15d57" /></td>
     <td><a href="https://www.tiktok.com/@dr.gifter306/video/7556932231663586578">Video demo</a></td>
+  </tr>
+    <tr>
+    <td>Christmas Tree 🎄</td>
+    <td>Cây thông Noel</td>
+    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/97514968-a086-408a-a96b-c8f0802a8e00" /></td>
+    <td><a href="https://www.tiktok.com/@dr.gifter306/video/7580991403929439506">Video demo</a></td>
   </tr>
   <tr>
     <td>Message Balloon 🎈</td>
