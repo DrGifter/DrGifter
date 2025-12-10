@@ -72,6 +72,12 @@ _📹Video hướng dẫn: [Xem tại đây](https://drive.google.com/file/d/1xX
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/2d97a76e-c66e-40b4-9911-160cd0b2ace5" /></td>
   </tr>
   <tr>
+    <td>Christmas Letter</td>
+    <td>Thư Giáng Sinh 🧑‍🎄💌</td>
+    <td><a href="https://github.com/DrGifter/Gift_ChristmasLetter.git">Xem tại đây</a></td>
+    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/5f87809f-7648-4887-bbd3-31cc360d7a11" /></td>
+  </tr>
+  <tr>
     <td>ButtonLove</td>
     <td>Nút bấm tình yêu 🔘</td>
     <td><a href="https://github.com/DrGifter/Gift_ButtonLove.git">Xem tại đây</a></td>
