@@ -41,18 +41,11 @@ _📹Video hướng dẫn: [Xem tại đây](https://drive.google.com/file/d/1xX
     <td><a href="https://github.com/DrGifter/Gift_HeartStar.git">Xem tại đây</a></td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/10071097-5951-4607-87bd-834c07a38a90" /></td>
   </tr>
-    <tr>
+  <tr>
     <td>Netflix</td>
     <td>Tạo trang Netflix để chúc mừng, kỷ niệm hoặc lưu giữ hình ảnh</td>
     <td><a href="https://github.com/DrGifter/Gift_Netflix.git">Xem tại đây</a></td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/5fc5eaf2-fc37-49d5-a219-9f9086f28583" /></td>
-  </tr>
-  </tr>
-    <tr>
-    <td>EncryptFlower</td>
-    <td>Giải mã đoạn kỳ tự khó hiểu thành một bông hoa 💐</td>
-    <td><a href="https://github.com/DrGifter/Gift_EncryptFlower.git">Xem tại đây</a></td>
-    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/3c71b81b-7f6c-472c-ad60-f9866f5fe745" /></td>
   </tr>
   <tr>
     <td>Song</td>
@@ -97,12 +90,6 @@ _📹Video hướng dẫn: [Xem tại đây](https://drive.google.com/file/d/1xX
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/9e042f12-aae3-403c-a3df-48dffe481721" /></td>
   </tr>
   <tr>
-    <td>Crush</td>
-    <td>Hộp quà tỏ tình với Crush</td>
-    <td><a href="https://github.com/DrGifter/Gift_Crush.git">Xem tại đây</a></td>
-    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/39e1dc5a-5949-4058-8027-2abe56dc6329" /></td>
-  </tr>
-  <tr>
     <td>Album</td>
     <td>Album kỷ niệm</td>
     <td><a href="https://github.com/DrGifter/Gift_Album.git">Xem tại đây</a></td>
@@ -133,18 +120,6 @@ _Có thể kết hợp nhiều mẫu lại, tạo Web, tạo QR theo yêu cầu_
     <td>Cậu có thích tớ không ? (Pháo hoa 🎇)</td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/35432f3f-bbed-4156-a14e-36f0b4707c62" /></td>
     <td><a href="https://www.tiktok.com/@dr.gifter306/video/7550885693191359751">Video demo</a></td>
-  </tr>
-  <tr>
-    <td>Mid-Autumn 🥮🏮</td>
-    <td>Thả lồng đèn trung thu</td>
-    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/ea2e1ee5-b8e3-43ba-895b-d69934f15d57" /></td>
-    <td><a href="https://www.tiktok.com/@dr.gifter306/video/7556932231663586578">Video demo</a></td>
-  </tr>
-    <tr>
-    <td>Christmas Tree 🎄</td>
-    <td>Cây thông Noel</td>
-    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/97514968-a086-408a-a96b-c8f0802a8e00" /></td>
-    <td><a href="https://www.tiktok.com/@dr.gifter306/video/7580991403929439506">Video demo</a></td>
   </tr>
   <tr>
     <td>Message Balloon 🎈</td>
@@ -182,14 +157,24 @@ _Có thể kết hợp nhiều mẫu lại, tạo Web, tạo QR theo yêu cầu_
 <div align="center">
   <table>
   <tr>
-    <th>Giáng sinh</th>
+    <th>Trung thu</th>
     <th>Love Tree</th>
     <th>Fill Heart</th>
   </tr>
   <tr>
-    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/fe21c018-d8cf-41de-b086-487573f7e076" /></td>
+    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/ea2e1ee5-b8e3-43ba-895b-d69934f15d57" /></td>
     <td align="center"><img width="300" src="https://github.com/user-attachments/assets/4f7d42b9-6b85-4191-a7df-49077dd0ea7e" /></td>
     <td align="center"><img width="300" src="https://github.com/user-attachments/assets/75d96b67-09d3-42f6-9cea-6578fbc24a24" /></td>
+  </tr>
+  <tr>
+    <th>Thiệp Noel</th>
+    <th>Cây Thông Noel</th>
+    <th>Giáng Sinh</th>
+  </tr>
+  <tr>
+    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/dd4beaf4-850e-4b60-8811-adadcb068879" /></td>
+    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/97514968-a086-408a-a96b-c8f0802a8e00" /></td>
+    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/fe21c018-d8cf-41de-b086-487573f7e076" /></td>
   </tr>
   <tr>
     <th colspan = "3">
@@ -200,9 +185,12 @@ _Có thể kết hợp nhiều mẫu lại, tạo Web, tạo QR theo yêu cầu_
     <td colspan = "3">
       <p>Gửi những lời yêu thương trân trọng nhất đến những người phụ nữ tuyệt vời nhất trong cuộc đời chúng ta — Mẹ, vợ yêu, bạn gái. Hãy dành tặng họ những dòng tin nhắn chan chứa cảm xúc, hay cùng nhau gìn giữ những kỷ niệm ngọt ngào và đáng nhớ</p>
       <ul>
-        <li>Giáng sinh: <a href="https://www.tiktok.com/@dr.gifter306/video/7578189343622253831">Video demo</a></li>
+        <li>Trung thu: <a href="https://www.tiktok.com/@dr.gifter306/video/7556932231663586578">Video demo</a></li>
         <li>Love Tree: <a href="https://www.tiktok.com/@dr.gifter306/video/7559648254070181138">Video demo</a></li>
         <li>Fill Heart: <a href="https://www.tiktok.com/@dr.gifter306/video/7559934989505252626">Video demo</a></li>
+        <li>Thiệp Noel: <a href="#">Video demo</a></li>
+        <li>Cây thông Noel: <a href="https://www.tiktok.com/@dr.gifter306/video/7580991403929439506">Video demo</a></li>
+        <li>Giáng sinh: <a href="https://www.tiktok.com/@dr.gifter306/video/7578189343622253831">Video demo</a></li>
       </ul>
       <i><strong>Mục đích: </strong>Gửi lời nhắn yêu thương, lời chúc vào những ngày đặc biệt như 20/10 ❤️, 8/3🌹, Noel🎁...Thông qua Link dẫn hoặc QR Code</i> <br>
     </td>
