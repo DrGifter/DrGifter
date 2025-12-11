@@ -101,6 +101,9 @@ _📹Video hướng dẫn: [Xem tại đây](https://drive.google.com/file/d/1xX
     <td><a href="https://github.com/DrGifter/Gift_Album.git">Xem tại đây</a></td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/7996ff9f-ffdb-40c5-86fa-4e3957cd3db0" /></td>
   </tr>
+  <tr align="end">
+    <td colspan='4'><a href="https://github.com/DrGifter?tab=repositories">Xem thêm 🥰</a></td>
+  </tr>
 </table>
 
 </div>
