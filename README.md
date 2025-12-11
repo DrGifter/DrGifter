@@ -44,7 +44,7 @@ _📹Video hướng dẫn: [Xem tại đây](https://drive.google.com/file/d/1xX
   <tr>
     <td>Netflix</td>
     <td>Tạo trang Netflix để chúc mừng, kỷ niệm hoặc lưu giữ hình ảnh</td>
-    <td><a href="https://github.com/DrGifter/Gift_Netflix.git">Xem tại đây</a></td>
+    <td><a href="https://github.com/DrGifter/Gift_N.git">Xem tại đây</a></td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/5fc5eaf2-fc37-49d5-a219-9f9086f28583" /></td>
   </tr>
   <tr>
