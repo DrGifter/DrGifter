@@ -181,7 +181,7 @@ _Có thể kết hợp nhiều mẫu lại, tạo Web, tạo QR theo yêu cầu_
     <th>Giáng Sinh</th>
   </tr>
   <tr>
-    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/dd4beaf4-850e-4b60-8811-adadcb068879" /></td>
+    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/f63dd105-d058-407c-a429-ff811ea6bb5d" /></td>
     <td align="center"><img width="300" src="https://github.com/user-attachments/assets/97514968-a086-408a-a96b-c8f0802a8e00" /></td>
     <td align="center"><img width="300" src="https://github.com/user-attachments/assets/fe21c018-d8cf-41de-b086-487573f7e076" /></td>
   </tr>
