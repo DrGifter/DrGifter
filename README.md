@@ -42,6 +42,12 @@ _📹Video hướng dẫn: [Xem tại đây](https://drive.google.com/file/d/1xX
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/10071097-5951-4607-87bd-834c07a38a90" /></td>
   </tr>
   <tr>
+    <td>3D Hand Interaction</td>
+    <td>Website tương tác bằng tay</td>
+    <td><a href="https://github.com/DrGifter/Gift_Interact.git">Xem tại đây</a></td>
+    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/a52b6fe1-3bd0-4bac-a4c3-ed27d9d43189" /></td>
+  </tr>
+  <tr>
     <td>Netflix</td>
     <td>Tạo trang Netflix để chúc mừng, kỷ niệm hoặc lưu giữ hình ảnh</td>
     <td><a href="https://github.com/DrGifter/Gift_N.git">Xem tại đây</a></td>
@@ -187,6 +193,16 @@ _Có thể kết hợp nhiều mẫu lại, tạo Web, tạo QR theo yêu cầu_
   </tr>
   <tr>
     <th colspan = "3">
+      Cây thông 3D
+    </th>
+  </tr>
+  <tr>
+      <td colspan = "3" align = "center">
+        <img width="300" src="https://github.com/user-attachments/assets/e27e608f-093a-427e-afe0-9d569e4f80a9" />
+      </td>
+    </tr>
+  <tr>
+    <th colspan = "3">
       Mô tả
     </th>
   </tr>
@@ -197,8 +213,9 @@ _Có thể kết hợp nhiều mẫu lại, tạo Web, tạo QR theo yêu cầu_
         <li>Trung thu: <a href="https://www.tiktok.com/@dr.gifter306/video/7556932231663586578">Video demo</a></li>
         <li>Love Tree: <a href="https://www.tiktok.com/@dr.gifter306/video/7559648254070181138">Video demo</a></li>
         <li>Fill Heart: <a href="https://www.tiktok.com/@dr.gifter306/video/7559934989505252626">Video demo</a></li>
-        <li>Thiệp Noel: <a href="#">Video demo</a></li>
+        <li>Thiệp Noel: <a href="https://www.tiktok.com/@dr.gifter306/video/7582983470809402644">Video demo</a></li>
         <li>Cây thông Noel: <a href="https://www.tiktok.com/@dr.gifter306/video/7580991403929439506">Video demo</a></li>
+        <li>Cây thông 3D: <a href="#">Video demo</a></li>
         <li>Giáng sinh: <a href="https://www.tiktok.com/@dr.gifter306/video/7578189343622253831">Video demo</a></li>
       </ul>
       <i><strong>Mục đích: </strong>Gửi lời nhắn yêu thương, lời chúc vào những ngày đặc biệt như 20/10 ❤️, 8/3🌹, Noel🎁...Thông qua Link dẫn hoặc QR Code</i> <br>
