@@ -45,7 +45,7 @@ _📹Video hướng dẫn: [Xem tại đây](https://drive.google.com/file/d/1xX
     <td>3D Hand Interaction</td>
     <td>Website tương tác bằng tay</td>
     <td><a href="https://github.com/DrGifter/Gift_Interact.git">Xem tại đây</a></td>
-    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/a52b6fe1-3bd0-4bac-a4c3-ed27d9d43189" /></td>
+    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/a52b6fe1-3bd0-4bac-a4c3-ed27d9d43189"/></td>
   </tr>
   <tr>
     <td>Netflix</td>
@@ -215,7 +215,7 @@ _Có thể kết hợp nhiều mẫu lại, tạo Web, tạo QR theo yêu cầu_
         <li>Fill Heart: <a href="https://www.tiktok.com/@dr.gifter306/video/7559934989505252626">Video demo</a></li>
         <li>Thiệp Noel: <a href="https://www.tiktok.com/@dr.gifter306/video/7582983470809402644">Video demo</a></li>
         <li>Cây thông Noel: <a href="https://www.tiktok.com/@dr.gifter306/video/7580991403929439506">Video demo</a></li>
-        <li>Cây thông 3D: <a href="#">Video demo</a></li>
+        <li>Cây thông 3D: <a href="https://www.tiktok.com/@dr.gifter306/video/7586466659666234644">Video demo</a></li>
         <li>Giáng sinh: <a href="https://www.tiktok.com/@dr.gifter306/video/7578189343622253831">Video demo</a></li>
       </ul>
       <i><strong>Mục đích: </strong>Gửi lời nhắn yêu thương, lời chúc vào những ngày đặc biệt như 20/10 ❤️, 8/3🌹, Noel🎁...Thông qua Link dẫn hoặc QR Code</i> <br>
