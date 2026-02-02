@@ -24,7 +24,7 @@
 
 ## 📝Free Projects
 
-_📹Video hướng dẫn: [Xem tại đây](https://drive.google.com/file/d/1xXZ-IXxMqBVU8TrOuHTWQJ_35uZhr2XI/view?usp=sharing)_
+_📹Video hướng dẫn: [Xem tại đây](https://drive.google.com/file/d/1WboO77431v6HCmZM3UAH59gMfNTynYkc/view?usp=drive_link)_
 
 <div align="center">
 
