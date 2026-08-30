@@ -5,17 +5,13 @@
 ## 🛠️ Tool & Language
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,html,css,js,dart,dotnet,flutter,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,html,css,js,php" />
 </div>
-
-## 📊GitHub Stats  
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DrGifter&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=DrGifter&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" style="max-width: 150%;">
-
-## 📑Website [Dr.Gifter](https://dr-gifter.vercel.app/)
-
 <div align="center">
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f8c604e1-8093-466c-adbb-8d5ce619d947" />
+  <img src="https://skillicons.dev/icons?i=dart,dotnet,flutter,mongodb,mysql,nodejs,react" />
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,postman,raspberrypi" />
 </div>
 
 ---
