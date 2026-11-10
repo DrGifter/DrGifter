@@ -6,6 +6,21 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&pause=1000&color=F7D220&center=true&vCenter=true&width=600&height=100&lines=Hello%2C+I'm+Dr.Gifter;JUST+A+GIFT+FOR+YOU" alt="Typing SVG" /></a>
 </div>
 
+<div align="center">
+  <a href="https://dr-gifter.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:phamtuankiet1774@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.tiktok.com/@dr.gifter306" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="https://github.com/DrGifter">
+    <img src="https://komarev.com/ghpvc/?username=DrGifter&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  </a>
+</div>
+
 ## Tool & Language
 
 <div align="center">
@@ -15,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=dart,dotnet,flutter,mongodb,mysql,nodejs,react" />
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,postman,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,postman,raspberrypi,androidstudio" />
 </div>
 
 ## Github Stats
