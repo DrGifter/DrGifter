@@ -35,13 +35,6 @@
 
 ## Github Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DrGifter&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DrGifter&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Top Languages" />
-</p>
-
----
-
 <div align="center">
   <picture>
     <!-- Giao diện nền tối (Dark Mode) -->
